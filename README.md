@@ -3,14 +3,14 @@
 
 ```bash
 # Acessando a URL será listado todos os usuários, utilizando o método "Get":
-# URL: https://git.heroku.com/app-crudbasico-gen-teste.git/users
+# URL: https://app-crudbasico-gen-teste-b90232056227.herokuapp.com/users
 ```
 
 ## Visualizar Usuário Específico
 
 ```bash
 # Passando o ID do usuário ao final da URL, utilizando o método "Get".
-# https://git.heroku.com/app-crudbasico-gen-teste.git/users/<id>
+# https://app-crudbasico-gen-teste-b90232056227.herokuapp.com/users/<id>
 ```
 
 ## Adicionar Novo Usuário
@@ -37,5 +37,5 @@
 
 ```bash
 # Passando o ID do usuário ao final da URL, utilizando o método "Delete".
-# https://git.heroku.com/app-crudbasico-gen-teste.git/users/<id>
+# https://app-crudbasico-gen-teste-b90232056227.herokuapp.com/users/<id>
 ```
