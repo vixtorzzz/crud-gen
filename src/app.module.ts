@@ -7,7 +7,7 @@ import { UsersModule } from './users/users.module';
 @Module({
   imports: [
     MongooseModule.forRoot(
-      'mongodb://localhost:27017/nest_db'
+      'mongodb+srv://victorlnunessilva:PNu8OAtN906AEvdR@cluster-vix-db.7rujr.mongodb.net/?retryWrites=true&w=majority&appName=cluster-vix-db'
     ),
     UsersModule
   ],
